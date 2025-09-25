@@ -8,6 +8,7 @@ Bikeshare Starter
 
 ### Description
 Bikeshare project is used to show that git commands are handled properly.
+Also this project is containing bikeshare_starter python script and data from new york city.
 
 ### Files used
 bikeshare_starter.py 
