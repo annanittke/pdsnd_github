@@ -52,8 +52,8 @@ def time_stats(df):
     start_time = time.time()
 
     # display the most common month
-
-
+    most_common_month = df['month'].value_counts().idxmax()
+    
     # display the most common day of week
 
 
@@ -61,6 +61,7 @@ def time_stats(df):
 
 
     print("\nThis took %s seconds." % (time.time() - start_time))
+    print("\nThe most common month is:" % most_common_month)
     print('-'*40)
 
 
