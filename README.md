@@ -7,11 +7,11 @@
 Bikeshare Starter
 
 ### Description
-Describe what your project is about and what it does
+Bikeshare project is used to show that git commands are handled properly.
 
 ### Files used
-Include the files used
+bikeshare_starter.py 
+new_york_city.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Credits to Udacity and fork from: https://github.com/udacity/pdsnd_github.git
