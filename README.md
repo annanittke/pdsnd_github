@@ -9,6 +9,7 @@ Bikeshare Starter
 ### Description
 Bikeshare project is used to show that git commands are handled properly.
 Also this project is containing bikeshare_starter python script and data from new york city.
+This is used to pass the project for "Introduction to Version Control" on Udacity.
 
 ### Files used
 bikeshare_starter.py 
