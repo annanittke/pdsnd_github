@@ -53,10 +53,7 @@ def time_stats(df):
 
     # display the most common month
     most_common_month = df['month'].value_counts().idxmax()
-    
     # display the most common day of week
-
-
     # display the most common start hour
 
 
@@ -72,11 +69,7 @@ def station_stats(df):
     start_time = time.time()
 
     # display most commonly used start station
-
-
     # display most commonly used end station
-
-
     # display most frequent combination of start station and end station trip
 
 
@@ -91,8 +84,6 @@ def trip_duration_stats(df):
     start_time = time.time()
 
     # display total travel time
-
-
     # display mean travel time
 
 
@@ -107,11 +98,7 @@ def user_stats(df):
     start_time = time.time()
 
     # Display counts of user types
-
-
     # Display counts of gender
-
-
     # Display earliest, most recent, and most common year of birth
 
 
