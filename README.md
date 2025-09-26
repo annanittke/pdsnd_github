@@ -12,7 +12,6 @@ Also this project is containing bikeshare_starter python script and data from ne
 
 ### Files used
 bikeshare_starter.py 
-new_york_city.csv
 
 ### Credits
 Credits to Udacity and fork from: https://github.com/udacity/pdsnd_github.git
